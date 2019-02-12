@@ -28,6 +28,6 @@ Please provide information in format of Russian Accounting Standards.
 ---
 
 ## License
-You can check out the full license [here](https://github.com/IgorAntun/node-chat/blob/master/LICENSE)
+You can check out the full license in LICENSE file.
 
 This project is licensed under the terms of the **MIT** license.

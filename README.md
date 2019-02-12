@@ -14,7 +14,7 @@ Financial modelling (valuation) of Russian companies using neural network: Tenso
 ## Setup
 Clone this repo:
 ```
-git clone https://github.com/andreiliphd/financial-modelling-neural-network.git
+git clone https://github.com/andreiliphd/financial-modeling-RAS-neural-network.git
 ```
 Install all the dependencies.
 

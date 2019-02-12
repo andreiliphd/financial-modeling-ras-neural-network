@@ -1,7 +1,7 @@
 # Financial modeling to forecast capitaliztion of Russian companies
 ============
 
-Financial modelling (valuation) of Russian companies using neural network: TensorFlow, PyTorch and Keras. This project is focused on analysis of Russian equities but can applied to other markets. Data is gathered used open sources. There are three models of finanancial valuation of the companies made using TensorFlow, PyTorch and Keras.
+Financial modelling (valuation) of Russian companies using neural network: TensorFlow, PyTorch and Keras. This project is focused on analysis of Russian equities but can be applied to other markets. The project is for value investors who want to apply neural networks to forecast capitalization of the companies. Data is gathered using open sources. There are three models of financial valuation of the companies made using TensorFlow, PyTorch and Keras.
 
 ---
 

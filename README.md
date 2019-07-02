@@ -14,7 +14,7 @@ Financial modeling (valuation) of Russian companies using neural network: Tensor
 ## Setup
 Clone this repo:
 ```
-git clone https://github.com/andreiliphd/snake.git
+git clone https://github.com/andreiliphd/financial-modeling-ras-neural-network.git
 ```
 Install all the dependencies.
 
@@ -23,7 +23,7 @@ Install all the dependencies.
 
 ## Usage
 
-Please provide a folder with images.
+Please provide accounting information.
 
 ---
 
